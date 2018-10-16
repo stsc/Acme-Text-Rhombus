@@ -6,7 +6,7 @@ use base qw(Exporter);
 
 our ($VERSION, @EXPORT_OK);
 
-$VERSION = '0.19_01';
+$VERSION = '0.19_02';
 @EXPORT_OK = qw(rhombus);
 
 sub rhombus

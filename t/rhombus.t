@@ -15,7 +15,7 @@ my $rhombus1 = rhombus(
 );
 my $rhombus2 = rhombus(
     lines   =>      15,
-    letter  =>     'x',
+    letter  =>     'c',
     case    => 'lower',
     fillup  =>     '*',
     forward =>       0,
@@ -59,18 +59,18 @@ RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 ++++++++++++++FFF++++++++++++++
 +++++++++++++++G+++++++++++++++
 ###
-*******x*******
-******www******
-*****vvvvv*****
-****uuuuuuu****
-***ttttttttt***
-**sssssssssss**
-*rrrrrrrrrrrrr*
-qqqqqqqqqqqqqqq
-*ppppppppppppp*
-**ooooooooooo**
-***nnnnnnnnn***
-****mmmmmmm****
-*****lllll*****
-******kkk******
-*******j*******
+*******c*******
+******bbb******
+*****aaaaa*****
+****zzzzzzz****
+***yyyyyyyyy***
+**xxxxxxxxxxx**
+*wwwwwwwwwwwww*
+vvvvvvvvvvvvvvv
+*uuuuuuuuuuuuu*
+**ttttttttttt**
+***sssssssss***
+****rrrrrrr****
+*****qqqqq*****
+******ppp******
+*******o*******

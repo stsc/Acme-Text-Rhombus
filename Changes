@@ -1,5 +1,10 @@
 Revision history for Perl extension Acme::Text::Rhombus.
 
+0.19_02  2018-10-16  <schubiger@cpan.org>
+
+ - Amend reverse letter enumeration test to cover resetting
+   letter.
+
 0.19_01  2018-10-14  <schubiger@cpan.org>
 
  - Make letter enumeration configurable.
