@@ -33,10 +33,10 @@
    "provides" : {
       "Acme::Text::Rhombus" : {
          "file" : "lib/Acme/Text/Rhombus.pm",
-         "version" : "0.21"
+         "version" : "0.21_01"
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
@@ -45,6 +45,6 @@
          "url" : "https://github.com/stsc/Acme-Text-Rhombus"
       }
    },
-   "version" : "0.21",
+   "version" : "0.21_01",
    "x_serialization_backend" : "JSON::PP version 4.04"
 }
