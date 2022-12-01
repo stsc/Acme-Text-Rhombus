@@ -10,7 +10,7 @@ use constant FORWARD => 1;
 our ($VERSION, @EXPORT_OK, %EXPORT_TAGS);
 my @subs;
 
-$VERSION = '0.21_01';
+$VERSION = '0.22';
 @subs = qw(rhombus rhombus_letter rhombus_digit rhombus_random);
 @EXPORT_OK = @subs;
 %EXPORT_TAGS = ('all' => [ @subs ]);
