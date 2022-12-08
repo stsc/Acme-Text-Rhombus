@@ -1,5 +1,9 @@
 Revision history for Perl extension Acme::Text::Rhombus.
 
+0.23  2022-12-08  <schubiger@cpan.org>
+
+ - Merged development version to stable.
+
 0.22_01  2022-12-07  <schubiger@cpan.org>
 
  - Use '.' as default fillup character.
